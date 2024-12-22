@@ -14,7 +14,7 @@
             <li><a href="#SWE">Software Engineering and Design</a></li>
             <li><a href="#DSA">Algorithms and Data Structures</a></li>
             <li><a href="#DB">Databases</a></li>
-            <li><a href="review">Code Review</a></li>
+            <li><a href="#review">Code Review</a></li>
         </ul>
     </nav>
     <section id="assessment">
