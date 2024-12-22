@@ -26,8 +26,7 @@
             <li>Mapping out your idea and following coding standards will increase your chances for success while lessening the struggle.</li>
           </ul>
 </p>
-    </section id="assessment">
-    <section id="assessment">
+    </section>
         <h2>Self Assessment</h2>
        <p>
          	Completing a degree in Computer Science has been a transformative journey that has equipped me with a diverse set of technical skills, problem-solving abilities, and an understanding of technology's role in solving real-world challenges. This assessment reflects on my academic experience, professional development, and readiness to contribute effectively to the tech industry. While this isn’t an ell encompassing reflection of my time at Southern New Hampshire University, this ePortfolio is a reflection of my knowledge in three categories: Software Design and Engineering, Algorithms and Data Structures, and Databases. 
