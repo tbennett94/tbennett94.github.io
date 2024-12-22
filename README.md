@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -68,7 +67,7 @@ As you review my projects you can look for the following outcomes:
 	This category meets various course outcomes. It was developed using a security mindset that anticipates exploits and vulnerabilities. It ensures privacy and enhanced security of data and resources. Combining these two functions and apps also showcases my ability to evaluate computing solutions that solve a given problem. While the functionality here is not overly complex it allows for another developer to easily introduce other functionality through collaboration such as a more complex or efficient search algorithm. 
 </p>
   </section>
-  <section id="review"</h2>
+  <section id="review">
     <h2>Code Review</h2>
     <p>This <a href="https://youtu.be/MQM-w2J7z_c">link</a> will take you to a youtube code review for the provided artifacts</p>
   </section>
